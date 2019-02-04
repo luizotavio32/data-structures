@@ -1,2 +1,2 @@
 # data-structures
-data structures algorithms made during my computer science degree at UNIFESP using C language
+data structures and sorting algorithms made during my computer science degree at UNIFESP using C language
